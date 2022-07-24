@@ -40,7 +40,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Centering it on de page:
+Centering it on the page:
 
 ```css
 .card {
